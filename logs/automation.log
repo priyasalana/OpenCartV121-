@@ -1,0 +1,137 @@
+19:48:49.386 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:15)oggger - ***** Starting TC002_LoginTest ***** 
+19:48:49.654 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:20)oggger - clicking on link account
+19:48:50.214 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:22)oggger - clicking on link login
+19:48:50.215 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:24)oggger - Providing user details
+19:48:51.214 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:31)oggger - validating message
+19:48:51.360 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:40)oggger - ***** Finished TC002_LoginTest ***** 
+19:49:03.670 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:24)oggger -  ***** Starting TC001_AccountRegistrationTest *****
+19:49:03.833 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:30)oggger - clicking on account link
+19:49:04.764 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:33)oggger - clicking on register link
+19:49:04.765 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:38)oggger - providing customer details 
+19:49:06.189 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:50)oggger - validating confirmation message 
+19:49:06.319 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:67)oggger -  ***** Finished TC001_AccountRegistrationTest *****
+19:49:15.812 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:15)oggger - ***** Starting TC002_LoginTest ***** 
+19:49:15.978 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:20)oggger - clicking on link account
+19:49:16.261 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:22)oggger - clicking on link login
+19:49:16.261 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:24)oggger - Providing user details
+19:49:17.214 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:31)oggger - validating message
+19:49:17.354 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:40)oggger - ***** Finished TC002_LoginTest ***** 
+19:49:58.129 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\priya\eclipse-workspace-new\OpenCartV121\grid-docker.xml"
+19:49:58.602 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\priya\eclipse-workspace-new\OpenCartV121\grid-docker.xml
+
+19:50:07.012 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:24)oggger -  ***** Starting TC001_AccountRegistrationTest *****
+19:50:07.174 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:30)oggger - clicking on account link
+19:50:08.365 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:33)oggger - clicking on register link
+19:50:08.370 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:38)oggger - providing customer details 
+19:50:10.421 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:50)oggger - validating confirmation message 
+19:50:10.515 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:67)oggger -  ***** Finished TC001_AccountRegistrationTest *****
+19:50:17.271 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:15)oggger - ***** Starting TC002_LoginTest ***** 
+19:50:17.407 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:20)oggger - clicking on link account
+19:50:17.735 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:22)oggger - clicking on link login
+19:50:17.735 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:24)oggger - Providing user details
+19:50:18.061 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:31)oggger - validating message
+19:50:19.049 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:40)oggger - ***** Finished TC002_LoginTest ***** 
+19:50:32.327 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:24)oggger -  ***** Starting TC001_AccountRegistrationTest *****
+19:50:32.536 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:30)oggger - clicking on account link
+19:50:33.286 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:33)oggger - clicking on register link
+19:50:33.286 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:38)oggger - providing customer details 
+19:50:35.039 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:50)oggger - validating confirmation message 
+19:50:35.078 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:67)oggger -  ***** Finished TC001_AccountRegistrationTest *****
+19:50:45.747 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:15)oggger - ***** Starting TC002_LoginTest ***** 
+19:50:45.904 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:20)oggger - clicking on link account
+19:50:46.490 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:22)oggger - clicking on link login
+19:50:46.491 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:24)oggger - Providing user details
+19:50:47.402 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:31)oggger - validating message
+19:50:47.457 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:40)oggger - ***** Finished TC002_LoginTest ***** 
+16:49:13.178 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\priya\eclipse-workspace-new\OpenCartV121\master.xml"
+16:50:58.751 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\priya\eclipse-workspace-new\OpenCartV121\master.xml"
+16:51:17.433 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:24)oggger -  ***** Starting TC001_AccountRegistrationTest *****
+16:51:17.538 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:30)oggger - clicking on account link
+16:51:17.957 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:33)oggger - clicking on register link
+16:51:17.960 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:38)oggger - providing customer details 
+16:51:19.217 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:50)oggger - validating confirmation message 
+16:51:19.287 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:67)oggger -  ***** Finished TC001_AccountRegistrationTest *****
+16:51:26.480 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:15)oggger - ***** Starting TC002_LoginTest ***** 
+16:51:26.545 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:20)oggger - clicking on link account
+16:51:26.809 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:22)oggger - clicking on link login
+16:51:26.810 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:24)oggger - Providing user details
+16:51:27.098 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:31)oggger - validating message
+16:51:27.736 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:40)oggger - ***** Finished TC002_LoginTest ***** 
+16:52:19.428 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\priya\eclipse-workspace-new\OpenCartV121\master.xml"
+16:52:19.707 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\priya\eclipse-workspace-new\OpenCartV121\master.xml
+
+17:06:05.763 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\priya\eclipse-workspace-new\OpenCartV121\master.xml"
+17:06:06.200 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\priya\eclipse-workspace-new\OpenCartV121\master.xml
+
+17:07:30.492 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\priya\eclipse-workspace-new\OpenCartV121\master.xml"
+17:07:30.979 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\priya\eclipse-workspace-new\OpenCartV121\master.xml
+
+17:07:41.484 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:24)oggger -  ***** Starting TC001_AccountRegistrationTest *****
+17:07:41.658 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:30)oggger - clicking on account link
+17:07:42.169 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:33)oggger - clicking on register link
+17:07:42.173 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:38)oggger - providing customer details 
+17:07:43.819 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:50)oggger - validating confirmation message 
+17:07:43.939 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:67)oggger -  ***** Finished TC001_AccountRegistrationTest *****
+17:07:50.538 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:15)oggger - ***** Starting TC002_LoginTest ***** 
+17:07:50.653 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:20)oggger - clicking on link account
+17:07:51.109 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:22)oggger - clicking on link login
+17:07:51.109 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:24)oggger - Providing user details
+17:07:51.423 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:31)oggger - validating message
+17:07:52.056 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:40)oggger - ***** Finished TC002_LoginTest ***** 
+17:09:20.010 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\priya\eclipse-workspace-new\OpenCartV121\master.xml"
+17:09:28.189 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:24)oggger -  ***** Starting TC001_AccountRegistrationTest *****
+17:09:28.381 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:30)oggger - clicking on account link
+17:09:28.798 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:33)oggger - clicking on register link
+17:09:28.811 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:38)oggger - providing customer details 
+17:09:30.406 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:50)oggger - validating confirmation message 
+17:09:30.473 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:67)oggger -  ***** Finished TC001_AccountRegistrationTest *****
+17:09:36.897 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:15)oggger - ***** Starting TC002_LoginTest ***** 
+17:09:37.021 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:20)oggger - clicking on link account
+17:09:37.270 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:22)oggger - clicking on link login
+17:09:37.271 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:24)oggger - Providing user details
+17:09:37.551 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:31)oggger - validating message
+17:09:38.417 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:40)oggger - ***** Finished TC002_LoginTest ***** 
+17:44:21.795 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\priya\eclipse-workspace-new\OpenCartV121\master.xml"
+17:45:18.741 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\priya\eclipse-workspace-new\OpenCartV121\master.xml"
+17:45:28.646 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:24)oggger -  ***** Starting TC001_AccountRegistrationTest *****
+17:45:28.796 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:30)oggger - clicking on account link
+17:45:30.956 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:33)oggger - clicking on register link
+17:45:30.963 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:38)oggger - providing customer details 
+17:45:33.101 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:50)oggger - validating confirmation message 
+17:45:33.184 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:67)oggger -  ***** Finished TC001_AccountRegistrationTest *****
+17:45:42.966 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:15)oggger - ***** Starting TC002_LoginTest ***** 
+17:45:43.103 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:20)oggger - clicking on link account
+17:45:45.410 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:22)oggger - clicking on link login
+17:45:45.411 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:24)oggger - Providing user details
+17:45:46.881 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:31)oggger - validating message
+17:45:47.011 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:40)oggger - ***** Finished TC002_LoginTest ***** 
+17:47:10.108 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\priya\eclipse-workspace-new\OpenCartV121\master.xml"
+17:47:19.356 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:24)oggger -  ***** Starting TC001_AccountRegistrationTest *****
+17:47:19.473 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:30)oggger - clicking on account link
+17:47:20.062 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:33)oggger - clicking on register link
+17:47:20.071 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:38)oggger - providing customer details 
+17:47:21.798 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:50)oggger - validating confirmation message 
+17:47:21.856 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:67)oggger -  ***** Finished TC001_AccountRegistrationTest *****
+17:47:30.154 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:15)oggger - ***** Starting TC002_LoginTest ***** 
+17:47:30.224 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:20)oggger - clicking on link account
+17:47:30.627 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:22)oggger - clicking on link login
+17:47:30.628 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:24)oggger - Providing user details
+17:47:30.862 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:31)oggger - validating message
+17:47:31.571 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:40)oggger - ***** Finished TC002_LoginTest ***** 
+18:04:46.545 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\priya\eclipse-workspace-new\OpenCartV121\master.xml"
+18:05:00.246 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:24)oggger -  ***** Starting TC001_AccountRegistrationTest *****
+18:05:00.457 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:30)oggger - clicking on account link
+18:05:01.539 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:33)oggger - clicking on register link
+18:05:01.542 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:38)oggger - providing customer details 
+18:05:05.334 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:50)oggger - validating confirmation message 
+18:05:05.391 [main] INFO  testCases.TC001_AccountRegistrationTest.testAccountRegister(TC001_AccountRegistrationTest.java:67)oggger -  ***** Finished TC001_AccountRegistrationTest *****
+18:05:12.796 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:15)oggger - ***** Starting TC002_LoginTest ***** 
+18:05:12.855 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:20)oggger - clicking on link account
+18:05:13.219 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:22)oggger - clicking on link login
+18:05:13.220 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:24)oggger - Providing user details
+18:05:13.636 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:31)oggger - validating message
+18:05:14.330 [main] INFO  testCases.TC002_LoginTest.testLogin(TC002_LoginTest.java:40)oggger - ***** Finished TC002_LoginTest ***** 
